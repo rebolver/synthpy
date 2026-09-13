@@ -36,7 +36,7 @@ equivalente de tu distro.)
 ## Uso
 
 ```bash
-python3 perron_synth.py
+python3 synthpy.py
 ```
 
 ### Controles
